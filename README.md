@@ -1,5 +1,5 @@
 # ETL-
-The first task we will need to complete is sourcing the data and looking to see if we can pull sufficient data to answer our questions above, and refine to fit the questions we are asking.  We will also need totake steps to clean and scrub specific data. We will then analyze our findings and summarize and conclude our findings using statistical analysis and communicate our findings to be clearly understood by our colleagues.
+The first task we will need to complete is sourcing the data and looking to see if we can pull sufficient data to answer our questions, and refine to fit the questions we are asking.  We will also need totake steps to clean and scrub specific data. We will then analyze our findings and summarize and conclude our findings using statistical analysis and communicate our findings to be clearly understood by our colleagues.
 
 Proposal:
 Show a correlation/link between daily confirmed cases of COVID-19 to stock prices of Major international  hotels and Airlines. 
