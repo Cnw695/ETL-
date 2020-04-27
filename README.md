@@ -5,15 +5,15 @@ The first task we will need to complete is sourcing the data and looking to see 
 
 Extract Process: 
 Original data sources were retrieved from direct websites listed below where we were able to download direct CSV files.
-Sources:
-#####COVID-19 Confirmed Cases: 
+##### Sources:
+* COVID-19 Confirmed Cases: 
 https://github.com/CSSEGISandData/COVID-19 ; https://docs.google.com/spreadsheets/d/1yZv9w9zRKwrGTaR-YzmAqMefw4wMlaXocejdxZaTs6w/htmlview?usp=sharing&sle=true
-#####Hotels: 
+* Hotels: 
 HLT Hilton Worldwide Holdings Inc. Common Stock
 https://finance.yahoo.com/quote/HLT/history?p=HLT
 VAC Marriott Vacations Worldwide Corporation Common Stock
 https://finance.yahoo.com/quote/VAC/history?p=VAC
-Airlines: 
+* Airlines: 
 DAL , Delta Air Lines, Inc. Common Stock
 https://finance.yahoo.com/quote/DAL/history?p=DAL
 SINGF, Singapore Airlines Ltd
