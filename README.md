@@ -1,6 +1,7 @@
 # ETL-
 Propose a series of questiond to be answered while sourcing data. Then develop a method of extration, cleansing and loading the data into a new dataframe to be utilize and clearly understood by our colleagues.
-Tools: MongoDB, Python, pandas, matplotlib, numpy, time, functools, pymongo
+
+#### Tools: MongoDB, Python, pandas, matplotlib, numpy, time, functools, pymongo
 
 #### Sources:
 * COVID-19 Confirmed Cases: 
